@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "route-test"
+    }
+  },
+  "defaultProject": "route-test",
+  "cli": {
+    "analytics": false
+  }
 }
